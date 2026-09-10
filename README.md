@@ -1,2 +1,2 @@
 # sYstem
-Bypass Discord screen sharing restrictions in Brazil using network-layer packet routing. No injection, no hooks.
+Cybersecurity Researcher | Network Analysis & Traffic Routing. Specializing in low-level packet manipulation and protocol behavior. No injection, no hooks.
